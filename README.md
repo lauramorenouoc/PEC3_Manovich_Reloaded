@@ -16,5 +16,5 @@ Este término se entenderá mejor con estos ejemplos que presento a continuació
 ![Texto alternativo](https://wwd.com/wp-content/uploads/2023/09/RBM_KVS_Camera_Suanglass_Capture_RGB_16-9.jpg)
 Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la famosa marca de lentes de sol y vista. Gracias a la tecnología ofrecida por META, la nueva empresa formada por las aplicaciones más usadas internacionalmente como Facebook, Instagram, WhatsApp..., se ha conseguido crear unas gafas inteligentes, que permiten realizar fotografía, vídeo y escuchar música a la persona que las lleve puestas.
 
-En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero haciendo una conexión entre un producto físico y el metaverso (software). 
-
+En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero haciendo una conexión entre un producto físico y el metaverso (software). Además, 
+Esta sinergia de elementos en unas gafas de uso diario, permite acercarnos más a la visión de futuro que se prevé, dónde toda nuestra vida tendrá su espacio virtual. 
