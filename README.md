@@ -18,3 +18,5 @@ Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la
 
 En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero haciendo una conexión entre un producto físico y el metaverso (software). Además, 
 Esta sinergia de elementos en unas gafas de uso diario, permite acercarnos más a la visión de futuro que se prevé, dónde toda nuestra vida tendrá su espacio virtual. 
+
+Según la teoría de Manovich
