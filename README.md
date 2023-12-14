@@ -19,4 +19,8 @@ Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la
 En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero haciendo una conexión entre un producto físico y el metaverso (software). Además, 
 Esta sinergia de elementos en unas gafas de uso diario, permite acercarnos más a la visión de futuro que se prevé, dónde toda nuestra vida tendrá su espacio virtual. 
 
-Según la teoría de Manovich
+Según la teoría de Manovich, estas gafas están realizadas de una combinación de "genes"  (mencionar manovich) de medios. Tanto las gafas per se, como la aplicación que la acompaña, los medios  se fusionan para ofrecer una experiencia nueva, nunca vivida culturalmente. Estas gafas están conectadas a una interfaz que permite su conexión al smartphone para poder desarrollar sus ventajas. Todo el contenido que recibe y emite este invento es digital,trae una codificación y una inteligencia artificial detrás, creados por Meta. 
+
+El cerebro de las gafas. Las Ray-Ban Meta smart glasses están gobernadas por un Qualcomm Snapdragon AR1 Gen1, un procesador que precisamente es capaz de lidiar con las nuevas capturas, vídeos y el asistente de IA. Este producto es una muestra de hibridación a raíz del fenómeno de la softwareización.
+Con un mismo software se puede grabar vídeo, transmitir en directo, realizar fotografías, escuchas música y acceder a un asistente virtual.
+Un producto híbirido como este, permite y cito: la combinación de técnicas previamente incompatibles entre los diferentes medios.
