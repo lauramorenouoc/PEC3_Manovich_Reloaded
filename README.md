@@ -25,4 +25,8 @@ El cerebro de las gafas. Las Ray-Ban Meta smart glasses están gobernadas por un
 Con un mismo software se puede grabar vídeo, transmitir en directo, realizar fotografías, escuchas música y acceder a un asistente virtual.
 Un producto híbirido como este, permite y cito: la combinación de técnicas previamente incompatibles entre los diferentes medios.
 
+Resultaod de Tan pronto como son inventados, dichos elementos empiezan a interactuar con otros elementes ya existentes. Así, los procesos de invención e hibridación están íntimamente ligados y funcionan juntos.
+
+
+## Be real: La aplicación que obliga a interactuar
 ![Texto alternativo](https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/WE6UUOBZGBCNLIXYCKJXYB6MZ4.png)
