@@ -24,3 +24,5 @@ Según la teoría de Manovich, estas gafas están realizadas de una combinación
 El cerebro de las gafas. Las Ray-Ban Meta smart glasses están gobernadas por un Qualcomm Snapdragon AR1 Gen1, un procesador que precisamente es capaz de lidiar con las nuevas capturas, vídeos y el asistente de IA. Este producto es una muestra de hibridación a raíz del fenómeno de la softwareización.
 Con un mismo software se puede grabar vídeo, transmitir en directo, realizar fotografías, escuchas música y acceder a un asistente virtual.
 Un producto híbirido como este, permite y cito: la combinación de técnicas previamente incompatibles entre los diferentes medios.
+
+![Texto alternativo](https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/WE6UUOBZGBCNLIXYCKJXYB6MZ4.png)
