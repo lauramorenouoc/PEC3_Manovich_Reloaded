@@ -13,7 +13,7 @@ Este término se entenderá mejor con estos ejemplos que presento a continuació
 
 
 ## Lo más nuevo de la hibridación: Meta Ray-Ban
-![Texto alternativo](https://wwd.com/wp-content/uploads/2023/09/RBM_KVS_Camera_Suanglass_Capture_RGB_16-9.jpg)
+![Texto alternativo](https://wwd.com/wp-content/uploads/2023/09/RBM_KVS_Camera_Suanglass_Capture_RGB_16-9.jpg) Copyright: Ray-Ban oficial.
 Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la famosa marca de lentes de sol y vista. Gracias a la tecnología ofrecida por META, la nueva empresa formada por las aplicaciones más usadas internacionalmente como Facebook, Instagram, WhatsApp..., se ha conseguido crear unas gafas inteligentes, que permiten realizar fotografía, vídeo y escuchar música a la persona que las lleve puestas.
 
 En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero haciendo una conexión entre un producto físico y el metaverso (software). Además, 
@@ -27,6 +27,11 @@ Un producto híbirido como este, permite y cito: la combinación de técnicas pr
 
 Resultaod de Tan pronto como son inventados, dichos elementos empiezan a interactuar con otros elementes ya existentes. Así, los procesos de invención e hibridación están íntimamente ligados y funcionan juntos.
 
+Personalmente, veo estas gafas comparables con los móviles android o la web (www), en su momento, que han sido tan significativos y producientes de un cambio bastante drástico en el mundo de la tecnología, que podríamos decir que las gafas son también una plataforma de medios móviles. Al igual que los mencionados, el software que da vida a estas gafas, hibrída una serie de medios, permitiendo el control de audiovisual en diferentes modos y funciones.
 
-## Be real: La aplicación que obliga a interactuar
+## Be real: La aplicación que incita a la espontaneidad
 ![Texto alternativo](https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/WE6UUOBZGBCNLIXYCKJXYB6MZ4.png)
+
+
+
+
