@@ -6,13 +6,16 @@
 ## Introducción
 Lev Manovich es un teórico y profesor, entre muchas otras nomenclaturas que se le atribuyen a su persona, especialista en cultura digital y los nuevos medios. Nacido en 1960, en Moscú, se especializó en la universidad en más de 3 ramas distintas: pintura, arquitectura, informática y semiótica (estudio de los signos). En 1982 se mudó a los Estados Unidos, dónde se comenzó a interesar en todo el ámbito digital y de la tecnología, teniendo en cuenta también su efecto en la cultura.
 
-Manovich ha publicado varios libros durante su trayectoria, siendo uno de ellos "El lenguaje de los nuevos medios", traducido en trece idiomas. Más adelante, publicó "El Software Toma el Mando", objeto de muchos estudios universitarios. De estos últimos, Lev deja caer conceptos imprescindibles para poder entender mejor la cultura digital. Uno de ellos es el término de *hibridación*. La hibridación según Lev Manovich, y resumida y detallada por Ferran Adell, "*es un proceso de remediación que da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente*".
+Manovich ha publicado varios libros durante su trayectoria, siendo uno de ellos "El lenguaje de los nuevos medios", traducido en trece idiomas. Más adelante, publicó "El Software Toma el Mando", objeto de muchos estudios universitarios. De estos últimos, Lev deja caer conceptos imprescindibles para poder entender mejor la cultura digital. Uno de ellos es el término de *hibridación*. 
+
+La hibridación según Lev Manovich, y resumida y detallada por Ferran Adell, "*es un proceso de remediación que da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente*". En otras palabras, sabiendo que existen unos medios (texto, audio, vídeo, etc...) que conviven juntos (esta sería la definición de la multimedia), en la hibridación, estos medios van más allá de convivir juntos, sinó que se fusionan, que es diferente a experimentar estos medios por separado. Para diferenciar mejor la multimedia de la hibridación, Manovich da dos ejemplos claros: la página web (multimedia) y Youtube (hibridación). 
+"En la página web que antes comentaba (la típica con el formato de los años 2000: un cuerpo de texto decorado con imágenes y con algunos elementos añadidos) la experiencia del usuario es fragmentada. Si uno lee el texto, no puede ver a la vez el vídeo, ni observar las imágenes. Cada elemento tiene su marco de visualización aislado del resto. En los medios híbridos -en cambio- uno experimenta todos los elementos en conjunto. Imaginemos un vídeo en Youtube con subtítulos, textos añadidos que complementan la visualización del vídeo dándonos más información (in situ)..." 
 
 Este término se entenderá mejor con estos ejemplos que presento a continuación.
 
 
 
-## Lo más nuevo de la hibridación: Meta Ray-Ban
+## Lo más nuevo de la hibridación: Meta Ray-Ba
 ![Texto alternativo](https://wwd.com/wp-content/uploads/2023/09/RBM_KVS_Camera_Suanglass_Capture_RGB_16-9.jpg) Copyright: Ray-Ban oficial.
 Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la famosa marca de lentes de sol y vista. Gracias a la tecnología ofrecida por META, la nueva empresa formada por las aplicaciones más usadas internacionalmente como Facebook, Instagram, WhatsApp..., se ha conseguido crear unas gafas inteligentes, que permiten realizar fotografía, vídeo y escuchar música a la persona que las lleve puestas.
 
