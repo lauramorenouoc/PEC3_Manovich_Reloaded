@@ -17,6 +17,7 @@ Este término se entenderá mejor con estos ejemplos que presento a continuació
 
 ## Re-descubriendo la hibridación: Meta Ray-Ban
 ![Texto alternativo](https://wwd.com/wp-content/uploads/2023/09/RBM_KVS_Camera_Suanglass_Capture_RGB_16-9.jpg) Copyright: Ray-Ban oficial.
+
 Uno de los productos más nuevos del mercado son las gafas Meta de Ray - Ban, la famosa marca de lentes de sol y vista. Gracias a la tecnología ofrecida por META, la nueva empresa formada por las aplicaciones más usadas internacionalmente como Facebook, Instagram, WhatsApp..., se ha conseguido crear unas gafas inteligentes, que permiten realizar fotografía, vídeo y escuchar música a la persona que las lleve puestas.
 
 En el caso de este ejemplo, es una hibridación que va más allá de unificar diferentes medios. Vemos como los elementos mediáticos se fusionan, pero, además haciendo una conexión entre medios físicos y digitales, en este caso del metaverso (software). Además, 
@@ -54,7 +55,6 @@ Esta aplicación híbrida también ha sido centro de muchas críticas. Muchas pe
 
 Como se puede observar, a veces también los avances tecnológicos y la hibridación puede ser controversial y no siempre positivo. Igualmente, yo opino la aplicación, aunque sí que puede llegar a tener mucha información sobre nosotros, los demás no tienen por qué tenerla si ajustamos la privacidad de lo que compartimos.
 
-
-
-
+## Conclusiones
+Con estos ejemplos tan cercanos, podemos observar como han evolucionado los medios y las fusiones entre ellos. La mayoría de páginas web, interfaces de los 90's no se podía considerar como híbridos, pero, en la actualidad, casi todas las aplicaciones y páginas web lleva a cabo una hibridación de medios que permite ofrecer una experiencia más plena e integrada de los medios a los usuarios, mejorando así la accesibilidad y la UX. Estos dos ejemplos muestran dos estrategias distintas de hibridación que explica Lev Manovich en su libro "El Software Toma el Mando", las gafas Meta de Ray-Ban son una forma nueva de representar el mundo, mientras que con BeReal, es una hibridación que no inventa nada nuevo pero usa otras técnicas en la interfaz para llevar a cabo esa integración de los medios y poder asimilar todos al mismo tiempo, a diferencia de cualquier elemento multimedia, que solo nos permite disfrutar de cada medio de forma separada. 
 
