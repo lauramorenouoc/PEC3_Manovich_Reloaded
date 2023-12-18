@@ -4,6 +4,7 @@
 **Profesor**: Francisco Miguel Gea Megías
 
 ![Texto alternativo](https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg) Copyright: Hasselblad H6D
+
 ## Introducción
 **Lev Manovich** es un teórico y profesor, entre muchas otras nomenclaturas que se le atribuyen a su persona, especialista en **cultura digital** y los nuevos medios. Nacido en 1960, en Moscú, se especializó en más de 3 ramas distintas en la universidad: pintura, arquitectura, informática y semiótica (estudio de los signos). En 1982, se mudó a los Estados Unidos, dónde se comenzó a interesar en todo el ámbito digital y de la tecnología, y el efecto que tenían estos en la cultura. (Little Movies, 1998)
 
@@ -14,6 +15,7 @@ Manovich ha ido publicando varios libros importantes durante su trayectoria, sie
 La hibridación según Lev Manovich, también resumida por Ferran Adell en su blog sobre Manovich, "*es un proceso de remediación que da una **fusión entre los elementos** que comparten las técnicas de software y las interfícies generando una **experiencia nueva** y coherente*" (Manovich, 2013). En otras palabras, se unifican técnicas que en un principio eran cada una para cada medio. 
 
 En la multimedia, estos medios (**texto, audio, vídeo, etc...**) que conviven juntos, se experimentan por separado, en cambio, en la hibridación, estos medios van más allá de convivir juntos, se fusionan. Para diferenciar mejor la multimedia de la hibridación, Manovich da dos ejemplos claros: **la página web (multimedia) y Youtube (hibridación)**. 
+
 >"*En la página web que antes comentaba (la típica con el formato de los años 2000: un cuerpo de texto decorado con imágenes y con algunos elementos añadidos) la experiencia del usuario es fragmentada. **Si uno lee el texto, no puede ver a la vez el vídeo**, ni observar las imágenes. Cada elemento tiene su marco de visualización aislado del resto. En los medios híbridos -en cambio- **uno experimenta todos los elementos en conjunto**. Imaginemos un vídeo en Youtube con subtítulos, textos añadidos que complementan la visualización del vídeo dándonos más información (in situ)...*" (Manovich, 2013) 
 
 Este término se entenderá mejor con estos ejemplos tan actuales de hibridación, que presento a continuación.
@@ -31,11 +33,11 @@ En el caso de este ejemplo, es una hibridación que va más allá de unificar di
 
 Según la teoría de Manovich, estas gafas están realizadas de una combinación de **"genes"**/medios. (palabra usada apor Manovich al comparar la hibridación con la genética de los humanos al reproducirnos). Tanto las gafas per se, como la aplicación que la acompaña, están hechas por medios fusionados con el objetivo de ofrecer una experiencia única, **nunca vivida antes culturalmente**, aún siendo lo más parecido a las gafas de realidad virtual. Estas gafas están conectadas a una interfaz que permite su conexión al smartphone para poder desarrollar sus ventajas. Todo el contenido que recibe y emite este invento es digital, **tiene una codificación y una inteligencia artificial detrás**, creados por Meta. 
 
-Las Ray-Ban Meta smart glasses están dirigidas por un Qualcomm Snapdragon AR 1 Gen1, un procesador muy conocido en el mundo del smartphone, que permite capturar las fotos, los vídeos y poner en funcionamiento el asistente de IA. Este producto es una muestra de hibridación a raíz del fenómeno de la **softwareización**. Con un mismo software se puede grabar vídeo, transmitir en directo, realizar fotografías, escuchar música y acceder a un asistente virtual. Un producto híbrido como este, permite y cito: “*La combinación de técnicas previamente incompatibles entre los diferentes medios*” (Manovich, 2013).
+Las Ray-Ban Meta smart glasses están dirigidas por un Qualcomm Snapdragon AR 1 Gen1, un procesador muy conocido en el mundo del smartphone, que permite capturar las fotos, los vídeos y poner en funcionamiento el asistente de IA. Este producto es una muestra de hibridación a raíz del fenómeno de la **softwareización**. Con un mismo software se puede grabar vídeo, transmitir en directo, realizar fotografías, escuchar música y acceder a un asistente virtual. Un producto híbrido como este, permite y cito: “*La combinación de técnicas previamente incompatibles entre los diferentes medios*” (Manovich, 2013). 
 
 Este software de Meta, es el que permite esta remezcla de medios que caracterizan estas gafas.
 
-  < “Las propiedades y técnicas únicas de diferentes medios se vuelven elementos de software que se pueden combinar en formas previamente imposibles”. (Manovich, 2013)
+> “Las propiedades y técnicas únicas de diferentes medios se vuelven elementos de software que se pueden combinar en formas previamente imposibles”. (Manovich, 2013)
 
 Personalmente, veo estas gafas comparables con los móviles android o la web (www), en su momento, que han sido tan significativas y producientes de un cambio bastante drástico en el mundo de la tecnología. Para mí, se podría decir que las gafas son también **una plataforma de medios** móviles más. Al igual que los mencionados, el software que da vida a estas gafas, hibrída una serie de medios, permitiendo el control de audiovisual en diferentes modos y funciones.
 
@@ -57,7 +59,7 @@ Detrás de una aplicación hay un **algoritmo** que es el que permite que en tod
 
 **Esta aplicación es un híbrido de distintos medios: imagen, vídeo, geolocalización, calendario, acceso a notificaciones y sonido.**
 
-BeReal ofrece **diferentes maneras de navegar e interaccionar con los medios**, en este caso con las fotos, que también pueden transformarse en vídeo (al clicar sobre la foto se reproduce el vídeo del momento en el que se toma la fotografía) y pueden localizarse, como ya he mencionado anteriormente. Nunca había existido una interfaz que permitiera realizar fotografías por delante y por detrás simultáneamente. Y, en el caso de que se haya enlazado con Spotify, suena la música que la persona estaba escuchando en el momento que se estaba realizando las fotos. De esta forma, con estas diferentes funcionalidades, que antiguamente disfrutaríamos de forma separada, según el medio, **se ofrece una experiencia totalmente nueva**, que tiene como base y ejemplo otras redes sociales, pero remezclando los medios de una forma más original.
+BeReal ofrece **diferentes maneras de navegar e interaccionar con los medios**, en este caso con las fotos, que también pueden transformarse en vídeo (al clicar sobre la foto se reproduce el vídeo del momento en el que se toma la fotografía) y pueden localizarse, como ya he mencionado anteriormente. Nunca había existido una interfaz que permitiera realizar fotografías por delante y por detrás simultáneamente. Y, en el caso de que se haya enlazado con Spotify, suena la música que la persona estaba escuchando en el momento que se estaba realizando las fotos. De esta forma, con estas diferentes funcionalidades, que antiguamente disfrutaríamos de forma separada, según el medio, **se ofrece una experiencia totalmente nueva**, que tiene como base y ejemplo otras redes sociales, pero remezclando los medios de una forma más original. Antes no podíamos considerar tener esta cantidad de elementos en un único lugar. Las fotografías pertenecían a las cámaras, los vídeos a las cámaras de vídeo, la localización al mapa y la música en algún tipo de reproductor.
 
 Esta aplicación híbrida también ha sido centro de muchas críticas. Muchas personas se quejan de la falta de privacidad que una aplicación como esta ofrece. Qué más queda por saber de alguien si con una fotografía podemos saber dónde está, qué está haciendo justo en ese momento, si está escuchando música y la hora a la que la realiza. 
 
