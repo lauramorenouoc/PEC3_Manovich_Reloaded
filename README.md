@@ -3,7 +3,7 @@
 **Alumna**: Laura Moreno        
 **Profesor**: Francisco Miguel Gea Megías
 
-![Texto alternativo](https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg) Copyright: Hasselblad H6D
+![Texto alternativo](https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg) Lev Manovich - Copyright: Hasselblad H6D
 
 ## Introducción
 **Lev Manovich** es un teórico y profesor, entre muchas otras nomenclaturas que se le atribuyen a su persona, especialista en **cultura digital** y los nuevos medios. Nacido en 1960, en Moscú, se especializó en más de 3 ramas distintas en la universidad: pintura, arquitectura, informática y semiótica (estudio de los signos). En 1982, se mudó a los Estados Unidos, dónde se comenzó a interesar en todo el ámbito digital y de la tecnología, y el efecto que tenían estos en la cultura. (Little Movies, 1998)
