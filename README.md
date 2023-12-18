@@ -47,7 +47,7 @@ En este caso, no se crea ningún lenguaje, sinó que junta diferentes tipos de l
 
 
 ## Re-descubriendo la hibridación: BeReal
-![Texto alternativo](https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/WE6UUOBZGBCNLIXYCKJXYB6MZ4.png)
+![Texto alternativo](https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/WE6UUOBZGBCNLIXYCKJXYB6MZ4.png) Copyright: BeReal
 
 **BeReal** es la aplicación de moda, y permite compartir con todo el mundo qué estás haciendo en ese momento justo y dónde te encuentras. Esto es posible gracias a que la aplicación abre la cámara frontal y trasera para sacar dos fotos a la misma vez. Actualmente, también ha añadido otro medio, **el vídeo**. Cuando se realizan estas dos fotografías, también se graba un “BTS”, behind the scenes, parecido al “live” de iPhone.
 
